@@ -1,0 +1,23 @@
+.div_height_1 {
+    height: 50px;
+    background-color: brown;
+    color: red;
+}
+.div_height_2 {
+    height: 400px;
+    background-color: chartreuse;
+    color: blue;
+}
+.div_height_3 {
+    height: 50px;
+    background-color: brown;
+    color: red;
+}
+.div_height_4 {
+    height: 50px;
+    background-color: silver;
+    color: seagreen;
+}
+.div_width {
+    width: 100%;
+}
